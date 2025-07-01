@@ -1,5 +1,5 @@
 # Joomla Content History SQL Injection: Session Hijacking PoC Writeup
-
+![Logo](/joomheist.png)
 ## Overview
 
 This proof-of-concept (PoC) demonstrates a critical **SQL Injection vulnerability** in the **Content History component** of Joomla CMS versions **3.2 through 3.4.4**, previously assigned CVEs including [CVE-2015-7297](https://nvd.nist.gov/vuln/detail/CVE-2015-7297) and related identifiers. While the vulnerability has been publicly documented, this PoC provides a novel, fully automated Python script for exploiting the flaw to:
